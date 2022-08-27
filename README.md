@@ -1,2 +1,2 @@
-# documentation
+# Documentation
 Krnl staff documentation
