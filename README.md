@@ -1,2 +1,1 @@
-# Documentation
-Krnl staff documentation
+# WIP
